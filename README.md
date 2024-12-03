@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fahrurrizqi.github/happybirthday/)
+[Demo]
 
 ## 🚀 How to Use
 
